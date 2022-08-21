@@ -1,0 +1,114 @@
+[
+    {
+    "id": 1,
+    "startDate": "2019-01-06T17:16:40",
+    "endDate": "2019-01-06T17:16:40",
+    "city": "Jerusalem",
+    "address": "Hirshler",
+    "patientId": "324857648"
+},
+{
+    "id": 2,
+    "startDate": "2019-01-06T17:16:50",
+    "endDate": "2019-01-06T17:16:40",
+    "city": "Jerusalem",
+    "address": "Hirshler",
+    "patientId": "324857648"
+},
+{
+    "id": 3,
+    "startDate": "2019-01-06T17:16:50",
+    "endDate": "2019-01-06T17:16:40",
+    "city": "Jerusalem",
+    "address": "Hirshler",
+    "patientId": "324857648"
+},
+{
+    "id": 4,
+    "startDate": "2019-01-06T17:16:50",
+    "endDate": "2019-01-06T17:16:40",
+    "city": "Jerusalem",
+    "address": "Hirshler",
+    "patientId": "324857648"
+},
+{
+    "id": 5,
+    "startDate": "2019-01-06T17:16:50",
+    "endDate": "2019-01-06T17:16:40",
+    "city": "Jerusalem",
+    "address": "Hirshler",
+    "patientId": "324857648"
+},
+{
+    "id": 6,
+    "startDate": "2019-01-06T17:16:50",
+    "endDate": "2019-01-06T17:16:40",
+    "city": "Jerusalem",
+    "address": "Hirshler",
+    "patientId": "324857648"
+},
+{
+    "id": 7,
+    "startDate": "2019-01-06T17:16:50",
+    "endDate": "2019-01-06T17:16:40",
+    "city": "Jerusalem",
+    "address": "Hirshler",
+    "patientId": "324857648"
+},
+{
+    "id": 9,
+    "startDate": "2000-10-10T00:00:00",
+    "endDate": "2000-10-11T00:00:00",
+    "city": "Bney Brak",
+    "address": "Chazon Ish",
+    "patientId": "59575027"
+},
+{
+    "id": 15,
+    "startDate": "2022-07-11T00:00:00",
+    "endDate": "2022-07-13T00:00:00",
+    "city": "Ashdod",
+    "address": "Shoshanim",
+    "patientId": "208624403"
+},
+{
+    "id": 16,
+    "startDate": "2022-07-11T00:00:00",
+    "endDate": "2022-07-13T00:00:00",
+    "city": "Ashdod",
+    "address": "Shoshanim",
+    "patientId": "12345678"
+},
+{
+    "id": 17,
+    "startDate": "2022-07-11T00:00:00",
+    "endDate": "2022-07-13T00:00:00",
+    "city": "Ashdod",
+    "address": "Shoshanim",
+    "patientId": "23456789"
+},
+{
+    "id": 18,
+    "startDate": "2022-07-11T00:00:00",
+    "endDate": "2022-07-13T00:00:00",
+    "city": "Ashdod",
+    "address": "Prachim",
+    "patientId": "34567812"
+},
+{
+    "id": 19,
+    "startDate": "2022-07-17T00:00:00",
+    "endDate": "2022-07-17T00:00:00",
+    "city": "Ashdod",
+    "address": "Prachim",
+    "patientId": "12345678"
+},
+{
+    "id": 20,
+    "startDate": "2022-08-02T05:55:42.485",
+    "endDate": "2022-08-02T05:55:42.485",
+    "city": "Bney Brak",
+    "address": "Chazon Ish",
+    "patientId": "59575027"
+}
+]

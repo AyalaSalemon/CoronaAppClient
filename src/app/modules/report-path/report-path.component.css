@@ -1,0 +1,59 @@
+.table-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+}
+.mat-table {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+.flex-container {
+  vertical-align:auto;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media only screen and (max-width: 300px) {
+  input{
+    font-size: 60%;
+    
+  }
+  form{
+    width: 100%;
+  }
+  button{
+    font-size: 60%;
+  }
+
+}
+
+.example-form-field {
+  margin-right: 20px;
+}
+
+.add-row {
+  margin-top: 10px;
+  margin-left: 15px;
+  height: 30px;
+}
+form{
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  padding:10px;
+}
+article{
+  margin-left:40%;
+}
+mat-form-field{
+  padding:10px;
+}
